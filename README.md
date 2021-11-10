@@ -12,6 +12,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Learning Deep Learning Mechanics
  - When: Nov 10, 2021 (Wednesday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJEodeqoqTgvE9K335pG-MxnJtlTy7VQhvfz) before joining
+ - [Slides](https://huqy.github.io/deep_learning_workshops/2_DL_learningmech_2021Fall.pdf)
 
 
 #### Learning PyTorch 
