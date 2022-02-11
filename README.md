@@ -28,7 +28,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
  - When: Feb 11, 2022 (Friday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMpde6pqTgsHNYBPoJmhNelXw3PeHH4AWzT) before joining
  - Slides will be available after the class. 
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/cnn1) &ndash; for PyTorch basics demo
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/LDL_cnn1) &ndash; for PyTorch basics demo
  - [Post-class survey](https://docs.google.com/forms/d/e/1FAIpQLSdVTXFIt4-8c6NQGJc_qORMKIzEmvmBKWFTgU7Ek6AZEq3Xww/viewform?usp=pp_url&entry.1132314417=Learning+Convolutional+Neural+Networks+(1)+(2/11))
 
 
