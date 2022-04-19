@@ -49,6 +49,6 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 
 ---
 
-### Instructor: [Qiyang Hu](mailto:huqy@oarc.ucla.edu) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:huqy@oarc.ucla.edu)
+### Instructor: [Qiyang Hu](https://oarc.ucla.edu/people/profiles/qiyang-hu) 
 
 
