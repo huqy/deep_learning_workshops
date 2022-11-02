@@ -14,7 +14,10 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Learning PyTorch 
  - When: Nov 2, 2022 (Wednesday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJUrce-uqTMsG93PJMf3Ii0eSd-CwCaE8NTJ) before joining
+ - [Slides](https://huqy.github.io/deep_learning_workshops/2_PyTorch.pdf) in PDF
+ - [Video](https://youtu.be/B8DXOhUURD0) of the slide presentation (2021 recording) 
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/learning_pytorch) &ndash; for PyTorch basics demo
+ - [OARC survey](http://bit.ly/3Wo6Alu)
 
 
 #### Deep Learning, the Good, the Bad, and the Ugly 
