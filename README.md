@@ -1,7 +1,7 @@
 # UCLA OARC Deep Learning Workshop Series
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://huqy.github.io/deep_learning_workshops/LICENSE.md)
 
-This folder contains the slides in PDFs and colab demos for the "Learning Deep Learning" lectures hosted by UCLA OARC. The course contents are updated for Fall 2022
+This folder contains the slides in PDFs and colab demos for the "Learning Deep Learning" lectures hosted by UCLA OARC. The course contents are updated for Winter 2023
 
 #### Introduction to Neural Networks 
 
@@ -23,6 +23,14 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Deep Learning, the Good, the Bad, and the Ugly 
  - When: Nov 4, 2022 (Friday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJUldeqrrDwuHtU2q_Mhi32Ur1dJJqB6INR5) before joining
+
+
+#### Learning Convolutional Neural Networks (1)
+ - When: Feb 17, 2023 (Friday) 10am-12:00pm
+ - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJwqdO6gqzMqE9Tow2G8OoEaPtGrPoDXypK4) before joining
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/LDL_cnn1) &ndash; CNNs basics pytorch demo
+ - [OARC survey](http://bit.ly/3YEOLzf)
+
 
 ---
 
