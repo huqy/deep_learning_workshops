@@ -28,6 +28,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Learning Convolutional Neural Networks (1)
  - When: Feb 17, 2023 (Friday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJwqdO6gqzMqE9Tow2G8OoEaPtGrPoDXypK4) before joining
+ - [Slides](https://huqy.github.io/deep_learning_workshops/4_DL_CNNs_2023_Winter.pdf) in PDF
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/LDL_cnn1) &ndash; CNNs basics pytorch demo
  - [OARC survey](http://bit.ly/3YEOLzf)
 
