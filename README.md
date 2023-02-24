@@ -33,6 +33,12 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
  - [OARC survey](http://bit.ly/3YEOLzf)
 
 
+#### Learning Convolutional Neural Networks (2)
+ - When: Feb 24, 2023 (Friday) 10am-12:00pm
+ - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJIkd-6prj0qGd1awUTk9gFm77WRf-Aaap5s) before joining
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/LDL_cnn2) &ndash; CNNs pytorch demo with Data Augmentation and Transfer Learning
+ - [OARC survey](http://bit.ly/3IQKSSr)
+
 ---
 
 ### Instructor: [Qiyang Hu](https://oarc.ucla.edu/people/profiles/qiyang-hu) 
