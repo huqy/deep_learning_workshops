@@ -36,8 +36,14 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Learning Convolutional Neural Networks (2)
  - When: Feb 24, 2023 (Friday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJIkd-6prj0qGd1awUTk9gFm77WRf-Aaap5s) before joining
+ - [Slides](https://huqy.github.io/deep_learning_workshops/5_DL_adv_2023_Winter.pdf) in PDF
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/LDL_cnn2) &ndash; CNNs pytorch demo with Data Augmentation and Transfer Learning
  - [OARC survey](http://bit.ly/3IQKSSr)
+
+
+#### Learning Generative Adversarial Networks 
+ - When: Mar 03, 2023 (Friday) 10am-12:00pm
+ - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMrcuipqDspGtPEv6wm4JfiJrn5if56hl42) before joining
 
 ---
 
