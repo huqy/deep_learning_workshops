@@ -44,6 +44,7 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Learning Generative Adversarial Networks 
  - When: Mar 03, 2023 (Friday) 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMrcuipqDspGtPEv6wm4JfiJrn5if56hl42) before joining
+ - [Slides](https://huqy.github.io/deep_learning_workshops/6_DL_gan_2023_Winter.pdf) in PDF
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/LDL_gan) &ndash; for a basic GAN solution to the dog-image generation problem.
  - [OARC survey](https://bit.ly/41Glmq3)
 
